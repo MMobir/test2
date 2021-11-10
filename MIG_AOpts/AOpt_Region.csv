@@ -1,0 +1,231 @@
+Country,DefElLoadCurveReg,DefHtLoadCurveReg,SubRegional,O_M_Group,EV_Chrg_DumSh,Option_Active
+Afghanistan,US,JPN,,1.0,0.95,OAS
+Albania,US,USA,,2.0,0.95,URA
+Algeria,US,ZAF,,1.0,0.95,AFR_N
+American Samoa,US,JPN,,1.0,0.95,SKO
+Andorra,US,USA,,5.0,0.95,EUR
+Angola,US,ZAF,,1.0,0.95,AFR_S
+Antigua and Barbuda,US,ARG,,3.0,0.95,CSA
+Argentina,US,ARG,,3.0,0.95,CSA
+Armenia,US,USA,,2.0,0.95,URA
+Aruba,US,ARG,,3.0,0.95,CSA
+Australia,US,USA,,5.0,0.95,ANZ
+Austria,AT,USA,,5.0,0.95,EUR
+Azerbaijan,US,USA,,2.0,0.95,URA
+Bahrain,SA,USA,,1.0,0.95,MID
+Bangladesh,US,JPN,,1.0,0.95,OAS
+Barbados,US,ARG,,3.0,0.95,CSA
+Belarus,US,USA,,2.0,0.95,URA
+Belgium,BE,USA,,5.0,0.95,EUR
+Belize,US,ARG,,3.0,0.95,CSA
+Benin,US,ZAF,,1.0,0.95,AFR_S
+Bermuda,US,ARG,,3.0,0.95,CSA
+Bhutan,US,JPN,,1.0,0.95,OAS
+Bolivia,US,ARG,,3.0,0.95,CSA
+Bosnia and Herzegovina,US,USA,,2.0,0.95,URA
+Botswana,US,ZAF,,1.0,0.95,AFR_S
+Bouvet Island,US,USA,,,0.95,
+Brazil,US,ARG,,2.0,0.95,BRZ
+Brunei,US,JPN,,1.0,0.95,OAS
+Bulgaria,BG,USA,,2.0,0.95,URA
+Burkina Faso,US,ZAF,,1.0,0.95,AFR_S
+Burundi,US,ZAF,,1.0,0.95,AFR_S
+Cambodia,US,JPN,,1.0,0.95,OAS
+Cameroon,US,ZAF,,1.0,0.95,AFR_S
+Canada,US,USA,,4.0,0.95,CAN
+Cape Verde,US,ZAF,,1.0,0.95,AFR_S
+Cayman Islands,US,ARG,,3.0,0.95,CSA
+Central African Republic,US,ZAF,,1.0,0.95,AFR_S
+Chad,US,ZAF,,1.0,0.95,AFR_N
+Chile,US,ARG,,3.0,0.95,MXC
+China,US,USA,,1.0,0.95,CHI
+Cocos (Keeling) Islands,US,USA,,,0.95,
+Colombia,US,ARG,,3.0,0.95,MXC
+Comoros,US,ZAF,,1.0,0.95,AFR_S
+Cook Islands,US,JPN,,1.0,0.95,OAS
+Costa Rica,US,ARG,,3.0,0.95,CSA
+Ivory Coast,US,ZAF,,1.0,0.95,AFR_S
+Croatia,HR,USA,,2.0,0.95,URA
+Cuba,US,ARG,,3.0,0.95,CSA
+Curacao,US,ARG,,3.0,0.95,CSA
+Cyprus,CY,USA,,1.0,0.95,MID
+Czech Republic,CZ,USA,,5.0,0.95,EUR
+Dem. People^s Rep. Korea,US,JPN,,1.0,0.95,OAS
+Democratic Republic of Congo,US,ZAF,,1.0,0.95,AFR_S
+Denmark,DK,USA,,5.0,0.95,EUR
+Djibouti,US,ZAF,,1.0,0.95,AFR_S
+Dominica,US,ARG,,3.0,0.95,CSA
+Dominican Republic,US,ARG,,3.0,0.95,CSA
+Ecuador,US,ARG,,3.0,0.95,CSA
+Egypt,US,ZAF,,1.0,0.95,AFR_N
+El Salvador,US,ARG,,3.0,0.95,CSA
+Equatorial Guinea,US,ZAF,,1.0,0.95,AFR_S
+Eritrea,US,ZAF,,1.0,0.95,AFR_N
+Estonia,EE,USA,,5.0,0.95,EUR
+Ethiopia,US,ZAF,,1.0,0.95,AFR_S
+Faroe Islands,US,USA,,2.0,0.95,URA
+Fiji,US,JPN,,1.0,0.95,OAS
+Finland,FI,USA,,5.0,0.95,EUR
+France,FR,USA,,5.0,0.95,EUR
+French Guiana,US,ARG,,3.0,0.95,CSA
+French Polynesia,US,JPN,,1.0,0.95,OAS
+Gabon,US,ZAF,,1.0,0.95,AFR_S
+Georgia,US,USA,,2.0,0.95,URA
+Germany,DE,USA,,5.0,0.95,EUR
+Ghana,US,ZAF,,1.0,0.95,AFR_S
+Gibraltar,US,USA,,5.0,0.95,EUR
+Greece,GR,USA,,5.0,0.95,EUR
+Greenland,US,USA,,5.0,0.95,EUR
+Grenada,US,ARG,,3.0,0.95,CSA
+Guam,US,JPN,,1.0,0.95,SKO
+Guatemala,US,ARG,,3.0,0.95,CSA
+Guernsey,US,USA,,,0.95,
+Guinea,US,ZAF,,1.0,0.95,AFR_S
+Guinea-Bissau,US,ZAF,,1.0,0.95,AFR_S
+Guyana,US,ARG,,3.0,0.95,CSA
+Haiti,US,ARG,,3.0,0.95,CSA
+Honduras,US,ARG,,3.0,0.95,CSA
+"Hong Kong SAR, China",US,JPN,,1.0,0.95,OAS
+Hungary,HU,USA,,5.0,0.95,EUR
+Iceland,IS,USA,,5.0,0.95,EUR
+India,IN,USA,,1.0,0.95,IND
+Indonesia,US,JPN,,1.0,0.95,OAS
+Iran,SA,USA,,1.0,0.95,MID
+Iraq,SA,USA,,1.0,0.95,MID
+Ireland,IE,USA,,5.0,0.95,EUR
+Isle of Man,US,USA,,5.0,0.95,EUR
+Israel,US,USA,,5.0,0.95,EUR
+Italy,IT,USA,,5.0,0.95,EUR
+Jamaica,US,ARG,,3.0,0.95,CSA
+Japan,JP,USA,,4.0,0.95,JPN
+Jordan,SA,USA,,1.0,0.95,MID
+Kazakhstan,US,USA,,2.0,0.95,URA
+Kenya,US,ZAF,,1.0,0.95,AFR_S
+Kiribati,US,JPN,,1.0,0.95,OAS
+South Korea,US,JPN,,3.0,0.95,SKO
+Kosovo,US,USA,,2.0,0.95,URA
+Kuwait,SA,USA,,1.0,0.95,MID
+Kyrgyz Republic,US,USA,,2.0,0.95,URA
+Laos,US,JPN,,1.0,0.95,OAS
+Latvia,LV,USA,,2.0,0.95,URA
+Lebanon,SA,USA,,1.0,0.95,MID
+Lesotho,US,ZAF,,1.0,0.95,AFR_S
+Liberia,US,ZAF,,1.0,0.95,AFR_S
+Libya,US,ZAF,,1.0,0.95,AFR_N
+Liechtenstein,US,USA,,2.0,0.95,URA
+Lithuania,LT,USA,,2.0,0.95,URA
+Luxembourg,LU,USA,,5.0,0.95,EUR
+"Macao SAR, China",US,JPN,,1.0,0.95,OAS
+Macedonia,MK,USA,,2.0,0.95,URA
+Madagascar,US,ZAF,,1.0,0.95,AFR_S
+Malawi,US,ZAF,,1.0,0.95,AFR_S
+Malaysia,US,JPN,,1.0,0.95,OAS
+Maldives,US,JPN,,1.0,0.95,OAS
+Mali,US,ZAF,,1.0,0.95,AFR_N
+Malta,US,USA,,2.0,0.95,URA
+Marshall Islands,US,JPN,,1.0,0.95,OAS
+Mauritania,US,ZAF,,1.0,0.95,AFR_N
+Mauritius,US,ZAF,,1.0,0.95,AFR_S
+Mayotte,US,USA,,,0.95,AFR_S
+Mexico,US,USA,,1.0,0.95,MXC
+Moldova,US,USA,,2.0,0.95,URA
+Monaco,US,USA,,5.0,0.95,EUR
+Mongolia,US,JPN,,1.0,0.95,OAS
+Montenegro,ME,USA,,2.0,0.95,URA
+Montserrat,US,ARG,,3.0,0.95,CSA
+Morocco,US,ZAF,,1.0,0.95,AFR_N
+Mozambique,US,ZAF,,1.0,0.95,AFR_S
+Myanmar,US,JPN,,1.0,0.95,OAS
+Namibia,US,ZAF,,1.0,0.95,AFR_S
+Nauru,US,JPN,,1.0,0.95,OAS
+Nepal,US,JPN,,1.0,0.95,OAS
+Netherlands,NL,USA,,5.0,0.95,EUR
+Netherlands Antilles,US,ARG,,3.0,0.95,CSA
+New Caledonia,US,JPN,,1.0,0.95,OAS
+New Zealand,US,AUS,,5.0,0.95,ANZ
+Nicaragua,NI,ARG,,3.0,0.95,CSA
+Niger,US,ZAF,,1.0,0.95,AFR_N
+Nigeria,US,ZAF,,1.0,0.95,AFR_S
+Niue,US,JPN,,1.0,0.95,OAS
+Northern Mariana Islands,US,JPN,,1.0,0.95,OAS
+Norway,NO,USA,,5.0,0.95,EUR
+Oman,SA,USA,,1.0,0.95,MID
+Pakistan,US,JPN,,1.0,0.95,OAS
+Palau,US,JPN,,1.0,0.95,OAS
+Palestine,SA,USA,,1.0,0.95,MID
+Panama,US,ARG,,3.0,0.95,CSA
+Papua New Guinea,US,JPN,,1.0,0.95,OAS
+Paraguay,US,ARG,,3.0,0.95,CSA
+Peru,US,ARG,,3.0,0.95,CSA
+Philippines,IN,JPN,,1.0,0.95,OAS
+Pitcairn,US,USA,,,0.95,
+Poland,PL,USA,,5.0,0.95,EUR
+Portugal,PT,USA,,5.0,0.95,EUR
+Puerto Rico,US,ARG,,3.0,0.95,MXC
+Qatar,SA,USA,,1.0,0.95,MID
+Republic of Congo,US,ZAF,,1.0,0.95,AFR_S
+Romania,RO,USA,,2.0,0.95,URA
+Russia,US,USA,,2.0,0.95,RUS
+Rwanda,US,ZAF,,1.0,0.95,AFR_S
+Samoa,US,JPN,,1.0,0.95,OAS
+San Marino,US,USA,,5.0,0.95,EUR
+Sao Tome and Principe,US,ZAF,,1.0,0.95,AFR_S
+Saudi Arabia,SA,USA,,1.0,0.95,MID
+Senegal,US,ZAF,,1.0,0.95,AFR_S
+Serbia,RS,USA,,2.0,0.95,URA
+Seychelles,US,ZAF,,1.0,0.95,AFR_S
+Sierra Leone,US,ZAF,,1.0,0.95,AFR_S
+Singapore,US,JPN,,1.0,0.95,OAS
+Sint Maarten (Dutch part),US,ARG,,3.0,0.95,CSA
+Slovak Republic,SK,USA,,5.0,0.95,EUR
+Slovenia,SI,USA,,5.0,0.95,EUR
+Solomon Islands,US,JPN,,1.0,0.95,OAS
+Somalia,US,ZAF,,1.0,0.95,AFR_S
+South Africa,ZA,ZAF,,1.0,0.95,AFR_S
+South Georgia and the South Sandwich Islands,US,USA,,,0.95,
+South Sudan,US,ZAF,,1.0,0.95,AFR_S
+Spain,ES,USA,,5.0,0.95,EUR
+Sri Lanka,US,JPN,,1.0,0.95,OAS
+St. Kitts and Nevis,US,ARG,,3.0,0.95,CSA
+St. Lucia,US,ARG,,3.0,0.95,CSA
+St. Martin (French part),US,ARG,,3.0,0.95,CSA
+St. Vincent and the Grenadines,US,ARG,,3.0,0.95,CSA
+Sudan,US,ZAF,,1.0,0.95,AFR_N
+Suriname,US,ARG,,3.0,0.95,CSA
+Svalbard & Jan Mayen Islands,US,USA,,,0.95,
+Swaziland,US,ZAF,,1.0,0.95,AFR_S
+Sweden,SE,USA,,5.0,0.95,EUR
+Switzerland,CH,USA,,5.0,0.95,EUR
+Syrian Arab Republic,SA,USA,,1.0,0.95,MID
+Taiwan,US,JPN,,1.0,0.95,OAS
+Tajikistan,US,USA,,2.0,0.95,URA
+Tanzania,US,ZAF,,1.0,0.95,AFR_S
+Thailand,US,JPN,,1.0,0.95,OAS
+The Bahamas,US,ARG,,3.0,0.95,CSA
+The Gambia,US,ZAF,,1.0,0.95,AFR_S
+Timor-Leste,US,JPN,,1.0,0.95,OAS
+Togo,US,ZAF,,1.0,0.95,AFR_S
+Tokelau,US,USA,,,0.95,
+Tonga,US,JPN,,1.0,0.95,OAS
+Trinidad and Tobago,US,ARG,,3.0,0.95,CSA
+Tunisia,US,ZAF,,1.0,0.95,AFR_N
+Turkey,US,USA,,5.0,0.95,EUR
+Turkmenistan,US,USA,,2.0,0.95,URA
+Turks and Caicos Islands,US,ARG,,3.0,0.95,CSA
+Tuvalu,US,JPN,,1.0,0.95,OAS
+Uganda,US,ZAF,,1.0,0.95,AFR_S
+Ukraine,US,USA,,2.0,0.95,URA
+United Arab Emirates,SA,USA,,1.0,0.95,MID
+United Kingdom,GB,USA,,5.0,0.95,EUR
+United States,US,USA,,4.0,0.95,USA
+Uruguay,US,ARG,,3.0,0.95,CSA
+Uzbekistan,US,USA,,2.0,0.95,URA
+Vanuatu,US,JPN,,1.0,0.95,OAS
+Vatican,US,USA,,5.0,0.95,EUR
+Venezuela,US,ARG,,3.0,0.95,CSA
+Vietnam,US,JPN,,1.0,0.95,OAS
+Virgin Islands,US,ARG,,3.0,0.95,MXC
+Wallis and Futuna,US,USA,,,0.95,
+Yemen,SA,USA,,1.0,0.95,MID
+Zambia,US,ZAF,,1.0,0.95,AFR_S
+Zimbabwe,US,ZAF,,1.0,0.95,AFR_S

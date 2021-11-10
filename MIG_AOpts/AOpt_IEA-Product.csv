@@ -1,0 +1,12 @@
+Description,PRODUCT,Option_Active
+,Hydro,Hydro
+,Sub-bituminous coal,Coal
+,Natural gas,Gas
+,Nuclear,Nuclear
+,Lignite,Coal
+,Solar thermal,Solar
+,Geothermal,Geothermal
+,Other bituminous coal,Coal
+,Solar photovoltaics,Solar
+,Crude oil,Oil
+,Wind,Wind

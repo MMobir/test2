@@ -1,0 +1,44 @@
+Description,GWGlobal,UTYPE,LIFE,DefYear,FIXOM,VAROM,AF,Option_Active
+"Allam Cycle, oxy-combustion technology",0.1,ACT,200,1970,9.02,0.879,0.85,CC
+Combined-cycle (unspecified machine configuration),11.8,CC,200,1970,9.02,0.879,0.85,CC
+Combined-cycle plant of unspecified configuratuion in CHP (cogen) application,*,CC/CP,200,1970,9.02,0.879,0.85,CHP
+Combined-cycle with heat recovery for desalination,*,CC/D,200,1970,9.02,0.879,0.85,CC
+Unspecified combined-cycle configuration with steam or heat sendout (cogen - CHP),0.6,CC/S,200,1970,7.33,1.336,0.85,CHP
+Combined-cycle single shaft configuration,178.6,CCSS,200,1970,9.02,0.879,0.85,CC
+Combined-cycle single shaft configuration CHP (cogen),18.4,CCSS/P,200,1970,7.33,1.336,0.85,CHP
+"External combustion engine, Stirling or other designs, multifuel",0,ECE,200,1970,9.02,0.879,0.85,CC
+Fuel cell,0.4,FC,200,1970,9.02,0.879,0.85,CC
+Gas/combustion turbine in simple (open) cycle,397.6,GT,200,1970,4.50408,1.32,0.85,GT
+Gas turbine in combined-cycle,463.7,GT/C,200,1970,7.332535,1.336,0.85,CC
+Gas turbine in combined-cycle CHP (cogen) power plant,76.5,GT/CP,200,1970,7.332535,1.336,0.85,CHP
+Gas turbine in combined-cycle CHP (cogen) power plant for desalination,16.1,GT/CS,200,1970,7.332535,1.336,0.85,CHP
+Gas turbine with heat recovery for desalination,6.6,GT/D,200,1970,7.332535,1.336,0.85,GT
+Gas turbine with exhaust heat recovery without steam production (cogen - CHP),0.9,GT/H,200,1970,7.332535,1.336,0.85,CHP
+Gas turbine employed for steam-turbine repowering,2.9,GT/R,200,1970,7.332535,1.336,0.85,GT
+Gas turbine with steam sendout or other heat recovery (cogen - CHP),71.2,GT/S,200,1970,7.332535,1.336,0.85,CHP
+Gas turbine in topping configuration with existing conventional boiler and T/G set,4.1,GT/T,200,1970,7.332535,1.336,0.85,GT
+Hydroelectric turbine generator,1294.5,HY,200,1970,25.255020000000002,1.56,,HY
+Internal combustion (reciprocating diesel) engine,96.6,IC,200,1970,4.50408,1.32,0.7,IC
+Internal combustion (reciprocating or diesel) engine in combined-cycle,6.3,IC/CD,200,1970,4.50408,1.32,0.7,IC
+Internal combustion (reciprocating or diesel) engine in combined-cycle CHP (cogen) power plant,0.4,IC/CP,200,1970,4.50408,1.32,0.7,CHP
+Internal combustion engine with heat recovery for desalination,*,IC/D,200,1970,4.50408,1.32,0.7,IC
+Internal combustion engine with heat recovery (cogen - CHP),21,IC/H,200,1970,4.50408,1.32,0.7,CHP
+"Indirectly-fired gas turbine, uses heat exchanger and operates as a hot air engine",0,IFGT,200,1970,4.50408,1.32,0.7,IC
+"Organic Rankine-cycle (vapor) turbine or ORC energy converter, also includes some turbo-expanders",1.8,ORC,200,1970,4.50408,1.32,0.7,IC
+Ocean thermal energy conversion device,0,OTEC,200,1970,4.50408,1.32,0.7,IC
+Photovoltaic cells,59.1,PV,200,2005,25.255020000000002,1.171,,PV
+"PV with integrated heat recovery, PV cogen",0,PVH,200,1970,25.255020000000002,1.171,,PV
+Reciprocating steam engine,0,RSE,200,1970,4.50408,1.32,0.7,IC
+Steam turbine,2722.7,ST,200,1970,19.54449,0.66,0.85,ST
+Steam turbine in combined-cycle,261.6,ST/C,200,1970,9.02,0.879,0.85,CC
+Steam turbine in combined-cycle with gas or diesel engines,0.5,ST/CD,200,1970,9.02,0.879,0.85,CC
+Steam turbine in combined-cycle CHP (cogen) power plant,34.8,ST/CP,200,1970,9.02,0.879,0.85,CHP
+Steam turbine in combined-cycle CHP (cogen) power plant for desalination,9.1,ST/CS,200,1970,9.02,0.879,0.85,CHP
+Steam turbine with heat recovery for desalination,27.8,ST/D,200,1970,20.952015000000003,0.766,0.85,ST
+Steam turbine with steam sendout (cogen),533,ST/S,200,1970,20.952015000000003,0.766,0.85,CHP
+Steam turbine with heat input from topping gas turbine,3.1,ST/T,200,1970,4.50408,1.32,0.85,ST
+"Turboexpander, gas expander or pressure recovery turbine",0.2,TEX,200,1970,4.50408,1.32,0.85,ST
+Top gas pressure recovery turbine (used in steel works),0.4,TRT,200,1970,4.50408,1.32,0.85,ST
+Tidal or wave turbine generator or other hydraulic kinetic energy system,0.6,TTG,200,1970,4.50408,1.32,,Tidal
+Wind turbine generator,279.1,WTG,200,2005,25.992295000000002,1.124,,WinONS
+Wind turbine generators located offshore,15.9,WTG/O,200,2005,25.992295000000002,1.124,,WinOFS

@@ -1,0 +1,45 @@
+Description,GWGlobal,FuelType,Option 1
+"Bituminous coal, lean coal",1087.2,BIT,
+Subbituminous coal,209.4,SUB,
+Lignite (brown coal),176.2,LIG,
+Anthracite or semi-anthracite coal,137.0,ANTH,
+Bituminous and subbituminous coal,55.6,BIT/SUB,
+"Waste coal from mining or washing operations, also gangue",28.1,WSTCOAL,
+Anthracite and bituminous coal,20.0,ANTH/BIT,
+"Waste bitumunous coal (coal fines and refuse, also gangue)",9.8,WSTBIT,
+Lignite and subbituminous coal,8.8,LIG/SUB,
+Lignite and bituminous coal,6.9,LIG/BIT,
+Bituminous coal and lignite (brown coal),5.5,BIT/LIG,
+Subbituminous and bituminous coal,4.5,SUB/BIT,
+Bituminous coal and anthracite coal,1.9,BIT/ANTH,
+Anthracite silt/anthracite,1.3,SILT/ANTH,
+Bituminous and waste bituminous coal,0.9,BIT/WSTBIT,
+Anthracite/culm,0.7,ANTH/CULM,
+Subbituminous coal/lignite,0.8,SUB/LIG,
+Anthracite coal waste,0.7,CULM,
+Anthracite silt,0.6,SILT,
+Gob/bituminous coal,0.1,GOB/BIT,
+Heavy fuel oil (also used to denominate Number 6 oil or bunker oil or furnace oil),145.3,HFO,
+"Diesel oil, also known as gasoil",63.4,DIESEL,DST
+Distillate oil (also Number 2 oil and light fuel oil),34.8,DIST,DST
+Crude and residual fuel oils,30.0,CRUDE/RESID,CRD
+Fuel oil no 6 (class of heavy fuel oil),21.4,FO6,
+Crude oil,15.6,CRUDE,CRD
+Fuel oil no 2 (distillate),15.0,FO2,
+Residual oil,11.3,RESID,
+Crude and distillate or diesel fuel oils,9.4,CRUDE/DIST,CRD
+Crude and heavy fuel oils,9.4,CRUDE/HFO,CRD
+Light fuel oil,6.4,LFO,DST
+Heavy and light fuel oils,3.5,HFO/LFO,
+Distillate & heavy fuel oils,1.4,DIST/HFO,DST
+Heavy fuel oil and diesel oil,0.9,HFO/DIESEL,
+Heavy and distillate fuel oils,0.6,HFO/DIST,
+Diesel oil/crude oil,0.3,DIESEL/CRUDE,DST
+Diesel and heavy fuel oil,0.3,DIESEL/HFO,DST
+Residual oil and diesel,0.2,RESID/DIE,
+Distillate oil and light fuel oil,0.2,DIST/LFO,DST
+Fuel oil no 1 (distillate),0.1,FO1,
+Distillate oil  & residual oil,0.1,DIST/RESID,DST
+Waste oil,0.0,WSTOIL,
+Diesel & light fuel oils,0.0,DIESEL/LFO,DST
+Medium fuel oil,0.0,MFO,

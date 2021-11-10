@@ -1,0 +1,25 @@
+Option_Active,Name,Description
+Option 1,CC,Combined-cycle (unspecified machine configuration)
+Option 1,CC_CHP,Combined-cycle plant of unspecified configuratuion in CHP (cogen) application
+Option 1,GT,Gas/combustion turbine in simple (open) cycle
+Option 1,GT-HR,Gas turbine in combined-cycle
+Option 1,GT-HR_CHP,Gas turbine in combined-cycle CHP (cogen) power plant
+Option 1,HY,Hydroelectric turbine generator
+Option 1,IC,Internal combustion (reciprocating diesel) engine
+Option 1,IC_CHP,Internal combustion (reciprocating or diesel) engine in combined-cycle CHP (cogen) power plant
+Option 1,PV,Photovoltaic cells
+Option 1,ST,Steam turbine
+Option 1,ST-C,Steam turbine in combined-cycle
+Option 1,ST-C_CHP,Steam turbine in combined-cycle CHP (cogen) power plant
+Option 1,ST_CHP,Steam turbine with steam sendout (cogen)
+Option 1,Tidal,Tidal or wave turbine generator or other hydraulic kinetic energy system
+Option 1,WinONS,Wind turbine generator
+Option 1,WinOFS,Wind turbine generators located offshore
+Option 2,CC,Combined-Cycle
+Option 2,GT,Gas Turbine
+Option 2,HY,Hydro
+Option 2,IC,Internal Combustion
+Option 2,PV,Photovoltaic cells
+Option 2,ST,Steam Turbine
+Option 2,Tidal,Tidal
+Option 2,Win,Wind
